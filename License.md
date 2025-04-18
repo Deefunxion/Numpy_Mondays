@@ -19,4 +19,4 @@ INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PA
 AND NONINFRINGEMENT.
 
 🌐 For inquiries regarding usage beyond research or educational purposes,
-please contact the maintainer at: your_email@example.com
+please contact the maintainer at: deefunxion@gmail.com
