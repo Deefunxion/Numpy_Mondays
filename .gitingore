@@ -1,0 +1,29 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Python & Jupyter
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+
+# Editor settings
+.vscode/
+.idea/
+
+# Databases & logs
+*.sqlite3
+*.log
+
+# Node (σε περίπτωση future interface dev)
+node_modules/
+
+# OS generated
+ehthumbs.db
+Icon?
